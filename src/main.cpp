@@ -2,5 +2,7 @@
 
 int main()
 {
-    std::cout << "hello world\n";
+    std::cout << "hello docker container" << std::endl;
+
+    return 0;
 }
